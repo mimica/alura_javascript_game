@@ -1,13 +1,10 @@
-const characterHeight = 135;
 const characterVelocity = 3;
 
 let scenarioImg;
 let characterImg;
 let cenario;
-let gameSound;
 let character;
-
-
+let gameSound;
 
 let isSoundPlaying = false;
 let soundButton = document.getElementById('soundButton');
